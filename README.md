@@ -7,9 +7,32 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+ My Skill Sets
+  <a href="#-my-skill-sets--">
+    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px>
+  </a> 
+<h2>
+  $\textsf{\color{#7957d5}{Languages}}$
+</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <br><h4>$\textsf{\color{#ff3845}{Python}}$</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
+        <br><h4>$\textsf{\color{#ff3845}{Javascript}}$</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.java.com/" target="_blank"><img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
+        <br><h4>$\textsf{\color{#ff3845}{Java}}$</h4>
+    </td>
+    <td align="center" width="90">
+    </td>
+  </tr>
+</table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samirshahu&show_icons=true&locale=en&layout=compact" alt="samirshahu" /></p>
 
