@@ -15,22 +15,15 @@
   $\textsf{\color{#7957d5}{Languages}}$
 </h2>
 <table align="center">
-  <tr>
-    <td align="center" width="90">
-        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-        <br><h4>$\textsf{\color{#ff3845}{Python}}$</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-        <br><h4>$\textsf{\color{#ff3845}{Javascript}}$</h4>
-    </td>
     <td align="center" width="90">
         <a href="https://www.java.com/" target="_blank"><img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
         <br><h4>$\textsf{\color{#ff3845}{Java}}$</h4>
     </td>
-    <td align="center" width="90">
+   <td align="center" width="90">
+        <a href="https://cplusplus.com/" target="_blank"><img alt="C++" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c++.svg" /></a>
+        <br><h4>$\textsf{\color{#ff3845}{C++}}$</h4>
     </td>
-  </tr>
+  
 </table>
 
 
